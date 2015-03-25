@@ -1,0 +1,4 @@
+baseurl = "http://scribe.gs/"
+languageCode = "en-us"
+title = "Scribe"
+theme = "Default"
